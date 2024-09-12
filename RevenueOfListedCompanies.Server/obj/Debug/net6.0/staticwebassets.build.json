@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "rS0PSEqlhg4+NN+op3vGvxfgjyJbPjZ+tT7gsAQrgoc=",
+  "Source": "RevenueOfListedCompanies.Server",
+  "BasePath": "_content/RevenueOfListedCompanies.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Project\\RevenueOfListedCompanies\\revenueoflistedcompanies.client\\revenueoflistedcompanies.client.esproj",
+      "Version": 2,
+      "Source": "revenueoflistedcompanies.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

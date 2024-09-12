@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Project\\RevenueOfListedCompanies\\RevenueOfListedCompanies.Server\\..\\revenueoflistedcompanies.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

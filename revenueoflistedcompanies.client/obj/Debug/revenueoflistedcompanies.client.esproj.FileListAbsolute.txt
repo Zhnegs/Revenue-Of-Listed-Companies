@@ -1,0 +1,1 @@
+C:\Project\RevenueOfListedCompanies\revenueoflistedcompanies.client\obj\Debug\revenueoflistedcompanies.client.esproj.CoreCompileInputs.cache
